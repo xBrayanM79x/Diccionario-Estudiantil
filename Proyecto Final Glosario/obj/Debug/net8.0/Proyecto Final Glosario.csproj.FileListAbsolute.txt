@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\bin\Debug\net8.0\Proyecto Final Glosario.exe
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\bin\Debug\net8.0\Proyecto Final Glosario.deps.json
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\bin\Debug\net8.0\Proyecto Final Glosario.runtimeconfig.json
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\bin\Debug\net8.0\Proyecto Final Glosario.dll
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\bin\Debug\net8.0\Proyecto Final Glosario.pdb
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\obj\Debug\net8.0\Proyecto Final Glosario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\obj\Debug\net8.0\Proyecto Final Glosario.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\obj\Debug\net8.0\Proyecto Final Glosario.AssemblyInfo.cs
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\obj\Debug\net8.0\Proyecto Final Glosario.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\obj\Debug\net8.0\Proyecto Final Glosario.dll
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\obj\Debug\net8.0\refint\Proyecto Final Glosario.dll
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\obj\Debug\net8.0\Proyecto Final Glosario.pdb
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\obj\Debug\net8.0\Proyecto Final Glosario.genruntimeconfig.cache
+C:\Users\hp\source\repos\Proyecto Final Glosario\Proyecto Final Glosario\obj\Debug\net8.0\ref\Proyecto Final Glosario.dll
